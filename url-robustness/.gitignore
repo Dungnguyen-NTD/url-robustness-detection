@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+# Dữ liệu và model nặng: không đưa lên git (mô tả cách tải trong README)
+data/raw/*
+data/processed/*
+models/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!models/.gitkeep
+
+# dữ liệu/kết quả sinh từ dữ liệu GIẢ — không commit
+data/processed_synth/
+reports/synth_*/

@@ -1,0 +1,14 @@
+numpy
+pandas
+scipy
+scikit-learn
+xgboost
+shap
+tldextract
+joblib
+pyarrow
+matplotlib
+idna
+rapidfuzz
+tqdm
+pytest
